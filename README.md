@@ -1,4 +1,4 @@
-# Getting Started with JBReact App
+# Getting Started with the new awesome JB React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
