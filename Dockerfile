@@ -1,6 +1,6 @@
 # Based on Docker image with the small Linux distro Alpine with Node preinstalled
 # Stage 1 - build app
-FROM node:latest as build
+FROM node:16 as build
 COPY . /app
 WORKDIR /app
 RUN npm i
